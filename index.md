@@ -1,8 +1,8 @@
 ---
-title: Clubfahrt Bingo
+title: Ilmenau Bingo
 ...
 
-# Clubfahrt Bingo
+# Ilmenau Bingo
 
 ```{=html5}
 <div class="nojs error">
@@ -26,7 +26,7 @@ To generate a new bingo card click [here](.).
 
 ## Source Code
 
-The source code can be found at <https://github.com/club-aquarium/clubfahrt-bingo/>.
+The source code can be found at <https://github.com/club-aquarium/ilmenau-bingo/>.
 
 ```{=html5}
 <div id="popup"></div>
